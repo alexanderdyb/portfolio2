@@ -6,7 +6,7 @@ export default function Hero() {
       <div className="flex md:flex-row flex-col-reverse gap-12 items-center max-w-4xl justify-between mx-auto px-5 py-24">
         <div className="text-[#fff] text-center md:text-left p-4">
           <h1 className="font-bold text-5xl tracking-wide">Portfolio</h1>
-          <p className="font-semibold uppercase tracking-wide pb-6 tracking-widest">
+          <p className="font-semibold uppercase pb-6 tracking-widest">
             Alexander Dyb
           </p>
           <p>

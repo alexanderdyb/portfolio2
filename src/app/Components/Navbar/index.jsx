@@ -8,7 +8,7 @@ export default function Navbar() {
         <div>
           <Link href="/">
             <p className="text-white">
-              <span>AD</span>
+              <span className="pr-1">AD</span>
               <span className="text-[#e5e5e5] font-bold tracking-widest border-b border-[#FEE715]">
                 Portfolio
               </span>
